@@ -1,10 +1,10 @@
 # Hi there, I'm Andrews Botchway! 👋  
-☁️ **Aspiring IT Professional | Cloud & DevOps Engineer | AWS Enthusiast**  
+☁️ **Aspiring System Admin| Cloud & DevOps Engineer | AWS Enthusiast**  
 
 ---
 
 ## 👨‍💻 About Me  
-I’m an **Aspiring Cloud & DevOps Engineer** passionate about designing, deploying, and managing **scalable cloud infrastructures**.  
+I’m an **IT professional** passionate about designing, deploying, and managing **scalable cloud infrastructures**.  
 My primary focus is on **Amazon Web Services (AWS)** and **DevOps practices**, enabling efficient development, automation, and deployment processes.  
 
 I believe in **continuous learning** and strive to stay up to date with the latest cloud technologies and DevOps tools.  
