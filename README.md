@@ -46,7 +46,8 @@ My goal is to build **secure, highly available, and cost-efficient cloud environ
 ## 📫 Let's Connect  
 - **X (Twitter):** [https://x.com/andrewsnob99/](https://x.com/andrewsnob99/)  
 - **LinkedIn:** [https://www.https://www.linkedin.com/in/andrews-botchway-a04958203/](https://www.https://www.linkedin.com/in/andrews-botchway-a04958203/)  
-- **Email:** [andrewsnob@gmail@gmail.com](mailto:andrewsnob@gmail.com)  
+- **Email:** [andrewsnob@gmail@gmail.com](mailto:andrewsnob@gmail.com)
+- **Gitlabs:** [https://gitlab.com/Andrews-Botchway](https://gitlab.com/Andrews-Botchway) 
 
 ---
 
